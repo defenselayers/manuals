@@ -8,7 +8,7 @@ This document describes first steps for new [Defenselayers](https://defenselayer
 There are 2 secure harbour registries [Defenselayers](https://defenselayers.com) with currently used hosts:
 
 1. `production` hosting production-grade secure images at: registry.defenselayers.com
-1. `developer` hosting beta stage secure images: at registry.defenselayers.dev
+1. `developer` hosting beta stage secure images at: registry.defenselayers.dev
 
 ### Accessing registries with Docker or podman
 [podman](https://podman.io/) provides the client command line interface compatible with [docker](https://www.docker.com/) . 
